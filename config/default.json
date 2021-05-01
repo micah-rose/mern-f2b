@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://mernie:mern-f2b@cluster0.a6ffm.mongodb.net/mernF2B?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://mernie:mern-f2b@cluster0.a6ffm.mongodb.net/mernF2B?retryWrites=true&w=majority",
+    "jwtSecret": "secret-token"
 }
