@@ -48,7 +48,7 @@ router.post('/', [
         user.password = await bcrypt.hash(password, salt);
         await user.save();
 
-        res.send('User Route')
+        res.send('User registered')
     } catch (err) {
         console.error(err.message);
         res.status(500).send('Server error');
