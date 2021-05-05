@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://mernie:mern-f2b@cluster0.a6ffm.mongodb.net/mernF2B?retryWrites=true&w=majority",
-    "jwtSecret": "secret-token"
+    "jwtSecret": "secret-token",
+    "githubClientID": "a16ed3aed1563bfcfe16",
+    "githubSecret": "35778f943872ef1c6a3097777aa4bbfaf6086329"
 }
